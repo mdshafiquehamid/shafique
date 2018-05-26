@@ -1,0 +1,41 @@
+h1{
+    background-color: black;
+    color:yellow;
+}
+
+p{
+    background-color: yellow;
+}
+
+.nice{
+    font-weight: bold;
+}
+
+#nicer{
+    background-color: gray;
+}
+
+.b{
+    background-color: blue;
+}
+
+.a{
+    font-weight: bold;
+    background-color: green;
+}
+
+.c{
+    background-color: gray;
+}
+
+em{
+    color:darkslategray;
+}
+
+.back{
+    background-color: brown;
+}
+
+div{
+    color: crimson;
+}
