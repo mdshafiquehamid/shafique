@@ -1,0 +1,31 @@
+*{
+    border: 1px solid blue;
+}
+
+@media (max-width: 1136px){
+    .hidden-xs{
+        display: none;
+    }
+}
+
+div{
+    text-align: center;
+    padding: 2px;
+}
+
+h1,p, h3{
+    text-align: left;
+}
+
+.caption{
+    text-align: left;
+}
+
+.jumbotron{
+    text-align: left;
+}
+
+.formfill{
+    border: none;
+    
+}
